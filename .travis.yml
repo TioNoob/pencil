@@ -60,4 +60,4 @@ script:
 
 branches:
   only:
-    - "/^v\\d+\\.\\d+\\.\\d+(\\-.*)?$/"
+    - "Tests_-_POC"
